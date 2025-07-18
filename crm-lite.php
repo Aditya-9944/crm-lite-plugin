@@ -1,9 +1,18 @@
 <?php
 /**
+<?php
+/**
  * Plugin Name: CRM Lite
- * Description: A simple CRM plugin to collect leads and view them in the admin panel.
+ * Plugin URI: https://yourwebsite.com/crm-lite
+ * Description: A lightweight CRM plugin to manage customers and leads.
  * Version: 1.0
  * Author: Aditya Pratap Singh
+ * Author URI: https://yourwebsite.com
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: crm-lite
+ * Requires at least: 5.0
+ * Tested up to: 6.8
  */
 
 if (!defined('ABSPATH')) {
