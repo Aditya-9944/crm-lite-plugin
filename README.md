@@ -1,6 +1,5 @@
 === CRM Lite ===
 Contributors: adityapratapsingh
-Donate link: https://yourwebsite.com/donate
 Tags: crm, customer-management, leads, contact-form, simple-crm
 Requires at least: 5.0
 Tested up to: 6.8
@@ -10,6 +9,10 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A lightweight CRM plugin to manage customers, leads, and simple contact interactions. Built for speed and simplicity.
+
+UPDATE:
+[WordPress Plugin Directory] Successful Plugin Submission - CRM Lite
+the plugin is under review
 
 == Description ==
 
@@ -59,3 +62,4 @@ Initial version. Please back up your site before installing.
 == License ==
 
 This plugin is licensed under the GPLv2 or later. See https://www.gnu.org/licenses/gpl-2.0.html for full terms.
+
