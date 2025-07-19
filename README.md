@@ -10,9 +10,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 A lightweight CRM plugin to manage customers, leads, and simple contact interactions. Built for speed and simplicity.
 
-UPDATE:
+
+== ☄️UPDATE ==
 [WordPress Plugin Directory] Successful Plugin Submission - CRM Lite
 the plugin is under review
+
 
 == Description ==
 
