@@ -47,15 +47,6 @@ Yes, it’s completely free and open source under the GPLv2 license.
 = Can I import/export customers? =  
 This version doesn’t support import/export, but the feature is planned.
 
-= Is there a Pro version? =  
-Not yet — but we’re open to building it if there’s demand.
-
-== Screenshots ==
-
-1. Admin dashboard to manage customers.
-2. Add new customer form.
-3. Customer details view.
-
 == Changelog ==
 
 = 1.0 =
